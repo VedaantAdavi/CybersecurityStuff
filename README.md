@@ -1,1 +1,1 @@
-This repository contains the code for some of my cybersecurity projects being, mostly, malware and other such tools to be used for cybersecurity purposes.
+Some tools and malware (mostly malware) that I've worked on. Most of the malware is low level and cannot do any serious harm.
